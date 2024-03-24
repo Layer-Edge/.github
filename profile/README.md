@@ -1,4 +1,5 @@
-#Layer Edge
+
+# Layer Edge
 
 Bitcoin has set the standard for decentralized financial systems with its security. However, its inherent limitations, such as constrained block sizes and slower transaction speeds, have sparked a quest for innovative solutions that can unlock its full potential as a decentralized global currency. Concurrently, Ethereum has redefined the blockchain landscape by introducing a Turing-complete programming language, fostering an ecosystem brimming with decentralized applications that test the limits of its scalability.
 
