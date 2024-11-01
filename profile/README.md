@@ -1,4 +1,4 @@
 
 # LayerEdge
 
-Bringing Bitcoin’s Security To Power The Verifiable Internet, using ZK proofs with OP_CAT
+Bringing Proof Aggregation & efficient Verification to Bitcoin — verifying proofs on Bitcoin at 99% cheaper cost.
